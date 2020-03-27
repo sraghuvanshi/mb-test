@@ -4,7 +4,7 @@
 
 export default {
   router: {
-    base: "/<repository-name>/"
+    base: "/mb-test/"
   },
   mode: "universal",
   /*
